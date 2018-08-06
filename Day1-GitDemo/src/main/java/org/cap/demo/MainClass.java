@@ -10,6 +10,7 @@ public class MainClass {
 	 SalesComplete disp=new SalesComplete();
 	 disp.display();
 	 salesClass1.printLoop();
+	 System.out.println("Process completed");
 	}
 
 	public static void greet()
