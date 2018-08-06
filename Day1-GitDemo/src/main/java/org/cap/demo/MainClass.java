@@ -9,6 +9,7 @@ public class MainClass {
 	 salesClass1.show();
 	 SalesComplete disp=new SalesComplete();
 	 disp.display();
+	 salesClass1.printLoop();
 	}
 
 	public static void greet()
