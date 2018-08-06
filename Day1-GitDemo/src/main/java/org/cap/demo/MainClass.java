@@ -12,6 +12,7 @@ public class MainClass {
 	 salesClass1.printLoop();
 	 for(int i=0;i<2;i++)
 		 System.out.println(i);
+		  System.out.println("Process completed");
 	}
 
 	public static void greet()
