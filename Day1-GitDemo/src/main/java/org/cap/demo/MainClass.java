@@ -7,6 +7,8 @@ public class MainClass {
 	 greet();
 	 SalesClass salesClass1=new SalesClass();
 	 salesClass1.show();
+	 SalesComplete disp=new SalesComplete();
+	 disp.display();
 	}
 
 	public static void greet()
