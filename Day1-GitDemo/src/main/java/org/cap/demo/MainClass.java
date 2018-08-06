@@ -10,6 +10,8 @@ public class MainClass {
 	 SalesComplete disp=new SalesComplete();
 	 disp.display();
 	 salesClass1.printLoop();
+	 for(int i=0;i<2;i++)
+		 System.out.println(i);
 	}
 
 	public static void greet()
@@ -18,4 +20,5 @@ public class MainClass {
 		System.out.println("Welcome to this page");
 		System.out.println("Hello");
 	}
+	
 }
