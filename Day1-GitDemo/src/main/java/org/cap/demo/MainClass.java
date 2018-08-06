@@ -5,6 +5,8 @@ public class MainClass {
 	public static void main(String[] args) {
 	 System.out.println("Hello World");
 	 greet();
+	 SalesClass salesClass1=new SalesClass();
+	 salesClass1.show();
 	}
 
 	public static void greet()
