@@ -9,6 +9,8 @@ public class MainClass {
 
 	public static void greet()
 	{
+		System.out.println("New changes");
+		System.out.println("Welcome to this page");
 		System.out.println("Hello");
 	}
 }
