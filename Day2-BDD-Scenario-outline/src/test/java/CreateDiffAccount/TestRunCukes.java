@@ -1,4 +1,4 @@
-package createDiffAccount;
+package CreateDiffAccount;
 
 import org.junit.runner.RunWith;
 
